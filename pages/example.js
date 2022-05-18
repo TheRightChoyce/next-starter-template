@@ -65,5 +65,5 @@ export default function Example() {
                 </a>
             </footer>
         </div>
-    )
+    );
 }
